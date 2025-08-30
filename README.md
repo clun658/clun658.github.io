@@ -1,7 +1,7 @@
 [index.html](https://github.com/user-attachments/files/22057450/index.md)
 ---
 layout: default
-title: 我的赛博朋克博客
+title: 成文那个的秘密空间
 ---
 
 # 欢迎来到我的赛博朋克风格博客 🕶️🌃
