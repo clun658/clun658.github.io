@@ -1,4 +1,4 @@
-[index.md](https://github.com/user-attachments/files/22057450/index.md)
+[index.html](https://github.com/user-attachments/files/22057450/index.md)
 ---
 layout: default
 title: 我的赛博朋克博客
